@@ -1,0 +1,17 @@
+{
+  "results" : [ {
+    "title" : "product-1",
+    "kcal_per_100g" : 200,
+    "unit_price" : 21.25,
+    "description" : "product-1 desc"
+  }, {
+    "title" : "product-2",
+    "kcal_per_100g" : 300,
+    "unit_price" : 43.58,
+    "description" : "product-2 desc"
+  } ],
+  "total" : {
+    "gross" : 64.83,
+    "vat" : 12.97
+  }
+}
